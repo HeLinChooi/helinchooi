@@ -5,8 +5,8 @@
 
 ---
 
-- 🌱 I’m currently learning [flutter](https://flutter.dev/)
-- 💬 Ask me about front-end development
+- 🌱 I’m currently learning [NestJS](https://nestjs.com/)
+- 💬 Ask me about front-end and back-end
 - 📫 How to reach me: [My Gmail](mailto:helinchooi@gmail.com?subject=[GitHub]:)
 
 ### :hammer_and_wrench: Languages and Tools :  
