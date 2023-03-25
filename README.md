@@ -43,7 +43,7 @@
   
 #### More about me
 <div id="badges">
-  <a href="https://www.linkedin.com/in/he-lin-chooi-2320b119b/">
+  <a href="https://www.linkedin.com/in/helinchooi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
