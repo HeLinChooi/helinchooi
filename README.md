@@ -10,7 +10,7 @@ Other than shipping features on mobile apps and websites, I also obuild the laye
 
 Right now I'm going deep on Postgres internals, Kubernetes, and multi-agent developer tooling.
 
-**Open to:** Platform / Developer Infrastructure and AI Infrastructure roles in Singapore.
+**Open to:** Software / Platform / Developer Infrastructure and AI Infrastructure roles in Singapore.
 
 ---
 
