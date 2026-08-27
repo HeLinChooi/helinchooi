@@ -6,7 +6,7 @@
 
 </div>
 
-Other than shipping features on mobile apps and websites, I also obuild the layer other engineers build on — CI/CD, container platforms, observability, and the databases underneath. Spent ~2.5 years on a national financial system in Singapore's public sector, where the interesting problems were almost never the features: log encryption, pipeline rewrites, setting up infrastructure on AKS-hosted services, DR planning, vulnerability resolution.
+Other than shipping features on mobile apps and websites, I also obuild the layer other engineers build on — CI/CD, container platforms, observability, and the databases underneath. Spent ~2.5 years on a national financial system in Singapore's public sector, where I had the interesting problems: log encryption, pipeline rewrites, setting up infrastructure on AKS-hosted services, DR planning, vulnerability resolution.
 
 Right now I'm going deep on Postgres internals, Kubernetes, and multi-agent developer tooling.
 
