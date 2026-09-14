@@ -2,46 +2,28 @@
 
 # Hi, I'm He Lin 👋
 
-**Software, Platform & Infrastructure Engineer** · Singapore
+**Software Engineer** · Singapore
 
 </div>
 
-Other than shipping features on mobile apps and websites, I also obuild the layer other engineers build on — CI/CD, container platforms, observability, and the databases underneath. Spent ~2.5 years on a national financial system in Singapore's public sector, where I had the interesting problems: log encryption, pipeline rewrites, setting up infrastructure on AKS-hosted services, DR planning, vulnerability resolution.
+I build and ship backend services and web apps, and I make sure I understand and able to operate the infrastructure they run on — CI/CD, containers, observability, and the databases underneath. Spent ~2.5 years on a national financial system in Singapore's public sector, working on log encryption, pipeline rewrites, infrastructure for AKS-hosted services, DR planning, and vulnerability resolution.
 
-Right now I'm going deep on Postgres internals, Kubernetes, and multi-agent developer tooling.
+Right now I'm going deep on Database, and AI developer tooling.
 
-**Open to:** Software / Platform / Developer Infrastructure and AI Infrastructure roles in Singapore.
+**Open to:** Software Engineering roles in Singapore. Also open to Platform and Developer Infrastructure work.
 
 ---
-
-### 🔭 Currently building
-
-- **[OpenClaw](LINK)** — multi-agent orchestration for Claude Code. Parallel worktrees, sandboxed permissions, task routing across agents.
 
 ### 🛠️ Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Apko Game](https://www.jangankenascam.com/apko-game)** | Web-based visual experience for the Association of Banks in Malaysia (ABM), teaching Malaysians how malware scams work and how to avoid them. Trilingual — English, Malay, Chinese | React 19, TypeScript, Vite, Tailwind, Zustand, i18next |
 | Log masking & encryption pipeline | PII masking + AES-256 encryption across application logs for data-protection compliance | Bash, awk, OpenSSL |
 | Centralised log platform | Shipped and indexed application logs for search and alerting across services | Elasticsearch, Kibana |
 | CI/CD migration | Build/release pipelines for legacy Java services, cutting manual release steps | Azure DevOps, JBoss/JBCS |
 
-### 📚 Learning in public
-
-Postgres internals (B+tree mechanics, query planning, partitioning, deadlocks) · competitive programming — DP, segment trees, game theory.
-
 ### 🧰 Toolbox
-
-**Platform & infra**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Backend & data**
 
@@ -56,7 +38,22 @@ Postgres internals (B+tree mechanics, query planning, partitioning, deadlocks) �
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Platform & infra**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📫 Reach me
 
